@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @skozman
-- 👀 I’m interested in web design, Autodesk Products, and learning C#/C++ to build on my current knowledge.
-- 🌱 I’m currently learning ASP.NET Core.
-- 💞️ I’m looking to collaborate on ASP.NET Core products.
+- 👀 I’m interested in web design, javascript, learning C#/C++ to build on my current knowledge.
+- 🌱 I’m currently learning ASP.NET Core, Node, and React.
 - 📫 Email me @ skozman4@gmail.com if you are looking to collaborate. 
 
 <!---
